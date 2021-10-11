@@ -1,0 +1,15 @@
+{
+    "arch": ["mlp"],
+    "dataset": ["SVHN"],
+    "nlayers": [2],
+    "width": [8],
+    "batchsize": [64],
+    "lr": [0.001],
+    "lr_schedule": [0],
+    "epochs": [3000],
+    "stopcond": [0.01],
+    "wd": [0],
+    "seed": [5]
+}
+
+
