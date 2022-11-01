@@ -1,5 +1,5 @@
 # PermutationInvarience
-This repository includes the codes for " The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks" submitted to ICLR 2022.
+This repository includes the codes for " [The Role of Permutation Invariance in Linear Mode Connectivity of Neural Networks](https://arxiv.org/pdf/2110.06296.pdf)" accepted at ICLR 2022.
 
 ### Working with Caliban
 Most experiments in this repositoty were done using [Caliban](https://github.com/google/caliban). Caliban is a tool for developing research workflow and notebooks in an isolated Docker environment and submitting those isolated environments to Google Compute Cloud.
